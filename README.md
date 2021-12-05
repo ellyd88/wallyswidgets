@@ -2,7 +2,7 @@
 
 ### See the app [deployed here](https://wallys-widgets.netlify.app/)
 
-## The challenge
+## Wally's Widget Challenge
 
 Wally’s Widget Company is a widget wholesaler. They sell widgets in a variety of pack sizes:
 
