@@ -88,7 +88,7 @@ return (
   })}
   <p> </p>
   <p>To see the task, <a href="https://drive.google.com/file/d/1j6fZxAM39760Ujso6xDzK_48Q1Jir9Pq/view">click here</a></p>
-  <p>To see the code, click here</p>
+  <p>To see the code, <a href="https://github.com/ellyd88/wallyswidgets">click here</a></p>
   </>
 )
 }
