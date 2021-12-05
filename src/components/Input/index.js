@@ -74,7 +74,7 @@ return (
       setResult(arr)
       }
       }>
-    Get order details
+    Calculate packs to send
   </button>
 <p> </p>
   {result.map((packs, i) => {
