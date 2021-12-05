@@ -1,6 +1,6 @@
 # Widget Calculator
 
-### See the app [deployed Here](https://wallys-widgets.netlify.app/)
+### See the app [deployed here](https://wallys-widgets.netlify.app/)
 
 ## The challenge
 
